@@ -1,6 +1,10 @@
 Inspired by [this](https://github.com/jbranchaud/til/blob/master/README.md), I decided to keep a Today I Learned (TIL) page.
 
 -------------------------
+Books
+* [Internet Archive](https://archive.org/details/books)
+"Some books can be freely read and downloaded. Others can be borrowed and read in our online book reader."
+
 Mac
 * Mouse Keys ([source](https://support.apple.com/guide/mac-help/control-the-pointer-using-mouse-keys-mh27469/mac))
 
